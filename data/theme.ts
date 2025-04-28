@@ -99,7 +99,7 @@ const colors: Colors = {
     200: "#bfdbfe",
     300: "#93c5fd",
     400: "#60a5fa",
-    500: "#3b82f6",
+    500: "#30435a",
     600: "#2563eb",
     700: "#1d4ed8",
     800: "#1e40af",
@@ -154,7 +154,7 @@ const colors: Colors = {
     900: "#064e3b",
   },
   green: {
-    50: "#f0fdf4",
+    50: "#39908b",
     100: "#dcfce7",
     200: "#bbf7d0",
     300: "#86efac",
@@ -256,7 +256,7 @@ const colors: Colors = {
   gray: {
     50: "#f9fafb",
     100: "#f3f4f6",
-    200: "#e5e7eb",
+    200: "#e5e5e5",
     300: "#d1d5db",
     400: "#9ca3af",
     500: "#6b7280",
@@ -276,6 +276,12 @@ const colors: Colors = {
     700: "#334155",
     800: "#1e293b",
     900: "#0f172a",
+  },
+  brown: {
+    500: "#aa6c51",
+    },
+  lightbrown: {
+     50: "#cfb29e",
   },
 };
 
